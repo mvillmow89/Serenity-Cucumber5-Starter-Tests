@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword","Searching for a term <Search Engine>","SUCCESS","2020-05-02T15:04:03.567-04:00[America/New_York]","0.0","36.83"
+"Search by keyword","Refining a search using two terms <Search Engine>","SUCCESS","2020-05-02T15:04:40.401-04:00[America/New_York]","0.0","39.85"
