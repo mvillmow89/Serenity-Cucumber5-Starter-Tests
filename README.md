@@ -1,4 +1,4 @@
 # Serenity-Cucumber5-Starter-Tests
-This is the Serenity Cucumber5 Starter code
+This is the Serenity Cucumber5 Starter code. The starter code can be found at this location - https://github.com/serenity-bdd/serenity-cucumber5-starter
 
-The code has been updated to utilize multiple search engines: DuckDuckGo (Original), Google, and Bing
+This project contains updates to the original starter code to utilize multiple search engines: DuckDuckGo (Original), Google, and Bing
